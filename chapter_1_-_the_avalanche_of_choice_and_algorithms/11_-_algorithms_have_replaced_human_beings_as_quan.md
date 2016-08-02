@@ -1,0 +1,24 @@
+## 1.1 - Algorithms have replaced human beings as (quantitatively) primary agenda setters and gatekeepers {#1-1-algorithms-have-replaced-human-beings-as-quantitatively-primary-agenda-setters-and-gatekeepers}
+
+It’s no mystery that we’re living in an era of unprecedented production of information. It is, however, important to try and grasp the mind-boggling extent of the phenomenon. Any attempt to capture the current amount of information produced is rendered obsolete faster than it takes for the researchers to write and print the analysis. The enormity of content production can be extrapolated through an anecdotal glimpse into how much content is created in a single day<sup><sup id="975673652486875-footnote-ref-2"><a href="#975673652486875-footnote-2">[1]</a></sup></sup>: at the time of writing (2PM CET on Saturday, 12 March 2016), since the beginning of the day (00:00 CEST) the mediascape has witnessed the creation of:
+
+*   two and half million new blog posts;
+*   four hundred million new tweets;
+*   thirty-seven million new photos uploaded on Instagram; and
+*   fifty-eight million new Tumblr posts.
+
+So what does this unprecedented increase in offer mean for the established system of media experts as gatekeepers and agenda-setters? In order to comprehend the complexity of mediating such a flow of information, we can turn to time as a cognitively understandable metric. Neuman, Park and Panek analysed the production of content in terms of length of content: in their 2012 paper “Tracking the Flow of Information Into the Home” they compared how many minutes of content are being produced in the US for each minute in the life of an individual American citizen. In other terms, for each minute a person has at their disposal to _consume_ content_,_ how many minutes of content are being _supplied_ by the mediascape? In 1960, the ratio was 82:1\. In 2005, the ratio was 884:1 [(Neuman, Park, &amp; Panek, 2012)](https://paperpile.com/c/BG18Wg/MIeHz). In terms of cognitive ability to make sense of this input, Neuman et al. claim that the state of supply in 1960 was still humanly manageable:
+
+_With appropriate chunking, labeling, habitual behavior, and radio-button-setting, the human cognitive system can intuitively manage this choice situation._ [_(Neuman et al., 2012, p. 13)_](https://paperpile.com/c/BG18Wg/MIeHz/?locator=13)
+
+I posit additionally that in 1960, it was also possible for human mediators (such as journalists, editors, curators etc) to cognitively manage and autonomously filter the _sources of raw information_ prior to packaging for human consumption. Between 1960 and 2005, the overall production of raw information surpassed what is humanly possible to filter and mediate, and as such the gatekeeping function of human mediators was no longer able to keep up with the information output.
+
+The fact that the study takes into account the 1960-2005 period is significant. Between 2005 and 2016, the Internet became by far the platform with the largest production and consumption of information — by a variety of metrics. In 2005, the number of websites<sup><sup id="975673652486875-footnote-ref-3"><a href="#975673652486875-footnote-3">[2]</a></sup></sup> on the Internet was slightly above sixty-five million — in 2014, it has surpassed a billion [(“Total number of Websites - Internet Live Stats,” n.d.)](https://paperpile.com/c/BG18Wg/mFCHU). Facebook didn’t exist before 2004, and today has more than a billion daily active users [(“Company Info | Facebook Newsroom,” n.d.)](https://paperpile.com/c/BG18Wg/z2J0Y) who spend an average of 20 minutes per day on the social media platform [(D’Onfro, 2015)](https://paperpile.com/c/BG18Wg/doshd). The year 2005 is also the birth of YouTube: the social video content sharing platform is a prime example of how incredibly complex the mediascape became in the last decade. Youtube currently doesn’t release hard numbers on their statistics. However, the official YouTube statistics page claims that:
+
+_YouTube has over a billion users — almost one-third of all people on the Internet — and every day people watch hundreds of millions of hours on YouTube and generate billions of views_ [_(“Statistics - YouTube,” n.d.)_](https://paperpile.com/c/BG18Wg/3JA0o)_._
+
+These examples encapsulate how much the input of content into the mediascape has grown since 2005, a year in which, arguably, the consumers already had lost their ability to autonomously parse the deluge of information. It is possible that the 884:1 ratio has been surpassed exponentially.
+
+[^1]: The analytics are retrieved from the website
+
+[^2]: Intended as “unique hostnames” which can be resolved into an IP address.
