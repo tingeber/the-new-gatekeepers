@@ -14,7 +14,7 @@ The information age brought unprecedented availability of information to the pub
 
 
 
-The starting point of the argument is an analysis of how much the mediascape has changed in the information era. The first chapter presents and analyses the quantitative differences of the society’s overall output of information between 1960, 2005 and 2016\. It presents and analyses the numbers of content being produced, and compares the overall availability of information between the three periods in order to expose the exponential nature of information availability growth. To follow, the paper gives an overview of the meaning and functions of algorithms. An analysis of the underpinnings of how algorithms work to understand their abilities and limitations is crucial in order to understand how and why algorithms influence the composition of the new mediascape. This section expands on the following dimensions of interpretation:
+The starting point of the argument is an analysis of how much the mediascape has changed in the information era. The first chapter presents and analyses the quantitative differences of the society’s overall output of information between 1960, 2005 and 2016. It presents and analyses the numbers of content being produced, and compares the overall availability of information between the three periods in order to expose the exponential nature of information availability growth. To follow, the paper gives an overview of the meaning and functions of algorithms. An analysis of the underpinnings of how algorithms work to understand their abilities and limitations is crucial in order to understand how and why algorithms influence the composition of the new mediascape. This section expands on the following dimensions of interpretation:
 
 
 
@@ -35,4 +35,3 @@ After analysing algorithmic gatekeeping on a functional level of creation, the p
 
 
 In conclusion, the paper expands on the three main dimensions of change mentioned earlier. The perspective on change in type of content is the black-box nature of algorithms, as well as the functional inability of individuals to holistically grasp the process through which complex algorithmic systems make the choice of prioritizing content. The change in journalistic agenda-setting analyses the concept of _demand media_ and the risks of combining algorithmic filtering processes with human mediatorship that might exacerbate the self-perpetuating nature of algorithms. The change in trust relationship puts the spotlight on the lack of mechanisms within the public to assign or evaluate trust with algorithmic mediators. Lastly, this paper proposes a series of heuristics that can be useful mitigation strategies.
-#
