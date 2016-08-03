@@ -1,6 +1,6 @@
 ## 1.1 - Algorithms have replaced human beings as (quantitatively) primary agenda setters and gatekeepers {#1-1-algorithms-have-replaced-human-beings-as-quantitatively-primary-agenda-setters-and-gatekeepers}
 
-It’s no mystery that we’re living in an era of unprecedented production of information. It is, however, important to try and grasp the mind-boggling extent of the phenomenon. Any attempt to capture the current amount of information produced is rendered obsolete faster than it takes for the researchers to write and print the analysis. The enormity of content production can be extrapolated through an anecdotal glimpse into how much content is created in a single day<sup><sup id="975673652486875-footnote-ref-2"><a href="#975673652486875-footnote-2">[1]</a></sup></sup>: at the time of writing (2PM CET on Saturday, 12 March 2016), since the beginning of the day (00:00 CEST) the mediascape has witnessed the creation of:
+It’s no mystery that we’re living in an era of unprecedented production of information. It is, however, important to try and grasp the mind-boggling extent of the phenomenon. Any attempt to capture the current amount of information produced is rendered obsolete faster than it takes for the researchers to write and print the analysis. The enormity of content production can be extrapolated through an anecdotal glimpse into how much content is created in a single day[^1]: at the time of writing (2PM CET on Saturday, 12 March 2016), since the beginning of the day (00:00 CEST) the mediascape has witnessed the creation of:
 
 *   two and half million new blog posts;
 *   four hundred million new tweets;
@@ -19,6 +19,6 @@ _YouTube has over a billion users — almost one-third of all people on the Inte
 
 These examples encapsulate how much the input of content into the mediascape has grown since 2005, a year in which, arguably, the consumers already had lost their ability to autonomously parse the deluge of information. It is possible that the 884:1 ratio has been surpassed exponentially.
 
-[^1]: The analytics are retrieved from the website
+[^1]: 
 
 [^2]: Intended as “unique hostnames” which can be resolved into an IP address.
