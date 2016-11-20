@@ -1,5 +1,3 @@
-## 3.2 - Self-perpetuation of relevance {#3-2-self-perpetuation-of-relevance}
-
 After having analysed the implicit and explicit bias in the creation of algorithms, as well as issues of _learned_ bias and prejudice in algorithmic automated fine-tuning, we’ll now turn towards how effects of algorithmic categorization influence the information the public is exposed to. This section will focus on **the tendency of algorithmic processes to self-perpetuate**: autonomously create relevance based on algorithmic choices of prioritization of content, followed by feeding those filtered results back into their own processes, creating a closed amplification loop of prioritization of information.
 
 ### The presentation of algorithmic results is designed for self-amplification {#the-presentation-of-algorithmic-results-is-designed-for-self-amplification}
