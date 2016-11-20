@@ -1,3 +1,1 @@
-# Chapter 3 - Implementation challenges {#chapter-3-implementation-challenges}
-
 After analysing the inherent differences between algorithms and the human information selection process on the level of functional limitations of design, this chapter analyses the differences in algorithmic selection from the process perspective. In other words, how does the implementation of algorithmic selection processes change the information we are exposed to? This chapter analyses three dimensions of process: **bias** in automated selection(implicit or explicit), **self-perpetuation** of relevance, and **restriction of content**.
