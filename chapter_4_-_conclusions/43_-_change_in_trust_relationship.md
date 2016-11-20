@@ -1,5 +1,3 @@
-## 4.3 - Change in trust relationship {#4-3-change-in-trust-relationship}
-
 The reliance of individuals on journalists as gatekeepers of the past is not only a quantitative process of specialization and division of labor, but also a qualitative process of assigning trust.
 
 We, as society and social beings, tend towards specialization. Individuals create an intricate, complex web of co-dependencies between persons trained and specialized in specific tasks out of necessity. The modern societal infrastructure is inherently geared towards the impossibility of self-sufficiency in independently procuring even the basic physiological needs[^8]. The main driver of this granularization is complexity:
