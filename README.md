@@ -32,4 +32,14 @@ In conclusion, the paper expands on the three main dimensions of change mentione
 
 ---
 
+Read and comment online, and download in PDF, mobi or ePub:
+
+- https://www.gitbook.com/book/tingeber/the-new-gatekeepers/details
+
+Contribute on Github:
+
+- https://github.com/tingeber/the-new-gatekeepers
+
+--- 
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">The New Gatekeepers</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.gitbook.com/book/tingeber/the-new-gatekeepers/details" property="cc:attributionName" rel="cc:attributionURL">Tin Geber</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
