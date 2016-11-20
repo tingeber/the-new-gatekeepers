@@ -1,4 +1,4 @@
-# Chapter 2 - The decontextualization of algorithmic systems {#chapter-2-the-decontextualization-of-algorithmic-systems}
+#Chapter 2 - The decontextualization of algorithmic systems {#chapter-2-the-decontextualization-of-algorithmic-systems}
 
 _Given the increasing role of algorithms in mediating everyday life [...], it is vital that we develop more critical ways of thinking about them that does not keep particular viewpoints ‘strictly out of frame’ and which situate them within their wider socio-technical assemblages. This requires technical approaches to be complemented by perspectives that consider: the discursive logic driving the propensity to translate practices and systems into computation; how the practices of coding algorithms are thoroughly social, cultural, political and economic in nature; and how algorithms perform diverse tasks, much of which raises political, economic and ethical concerns._ [_(Kitchin, 2014, p. 7)_](https://paperpile.com/c/BG18Wg/O1On/?locator=7)
 
