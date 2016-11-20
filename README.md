@@ -1,6 +1,6 @@
 #The New Gatekeepers
 
-# Introduction {#introduction}
+#Introduction {#introduction}
 
 
 
