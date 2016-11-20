@@ -7,15 +7,15 @@ A quick premise: this paper is targeted at societal and cultural effects of algo
 *   The limitation of basic computing operations
 *   Algorithm as synecdoche
 
-According to the Oxford Dictionary<sup><sup id="975673652486875-footnote-ref-5"><a href="#975673652486875-footnote-5">[4]</a></sup></sup>, an algorithm is
+According to the Oxford Dictionary[^4], an algorithm is
 
-_A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer._
+> A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
 
 In the broadest stroke, an algorithm isn’t code - it doesn’t require a specific programming language over another, and it doesn’t depend on the software and hardware that is processing the commands. **An algorithm is a process**: a well-defined set of actions that, if taken in the specified order, will produce the intended result.
 
 Another important aspect to algorithms is the separation of logic and control, or as Kowalsky defines it:
 
-_An algorithm can be regarded as consisting of a logic component, which specifies the knowledge to be used in solving problems, and a control component, which determines the problem-solving strategies by means of which that knowledge is used._ [_(Kowalski, 1979, p. 424)_](https://paperpile.com/c/BG18Wg/QvVg0/?locator=424)
+> An algorithm can be regarded as consisting of a logic component, which specifies the knowledge to be used in solving problems, and a control component, which determines the problem-solving strategies by means of which that knowledge is used. [_(Kowalski, 1979, p. 424)_](https://paperpile.com/c/BG18Wg/QvVg0/?locator=424)
 
 In other words, it is useful to think about algorithms as composed of two dimensions: the logic specifies what needs to be done, while the control defines how it will be done. While logic and control are linked, we can think of logic as **paradigmatic**, and control as **incremental**: if a programmer wishes to make improvements in efficiency of an algorithm by modifying the control aspects, they will devise new steps that improve on the current state — however, the current underlying logic paradigm remains the same. On the other hand, if they were to change the logic, it would mean devising a completely new approach to algorithmically solving the problem at hand. In that case the improvement in efficiency isn’t incremental — it is a rather a completely novel approach to solving the problem the algorithm has been designed to solve.
 
@@ -25,16 +25,16 @@ In order to understand how algorithms work on a technical, implementation level,
 
 Lastly, algorithm as choice of terminology is misleading, since only the most basic operations involve a single problem with a single set of instructions. For the most part when we speak of algorithms we rely on the term as _synecdoche_ [(Gillespie, 2016)](https://paperpile.com/c/BG18Wg/dRdOY) - a shorthand for signifying a complexly interconnected system of multiple algorithmic processes aimed at achieving a solution to a problem.
 
-_Perhaps “algorithm” is coming to serve as the name for a particular kind of socio-technical ensemble, one of a family of systems for knowledge production or decision-making: in this one, people, representations, and information are rendered as data, are put into systematic / mathematical relationships with each other, and then are assigned value based on calculated assessments about them._ [_(Gillespie, 2016, p. 4)_](https://paperpile.com/c/BG18Wg/dRdOY/?locator=4)
+> Perhaps “algorithm” is coming to serve as the name for a particular kind of socio-technical ensemble, one of a family of systems for knowledge production or decision-making: in this one, people, representations, and information are rendered as data, are put into systematic / mathematical relationships with each other, and then are assigned value based on calculated assessments about them. [_(Gillespie, 2016, p. 4)_](https://paperpile.com/c/BG18Wg/dRdOY/?locator=4)
 
 Again, Google is a prime example: in 2009, Google announced “Personalized search for everyone”, a new approach to individual personalization of search results. In the announcement, Google specified they are using “57 signals” to tailor search results for each user [(Pariser, 2011)](https://paperpile.com/c/BG18Wg/FEmbG). The exact nature of these signals is a trade secret — some probables are location, type of computer, operating system, or type of browser. So when a Google user enters a search term, in the split second before the results are presented, behind the scenes there are at least 57 separate algorithmic classification and categorization systems whose combined computation offers the exact order in which results are presented.
 
 The problem with the synecdochical nature of the term “algorithm” that is particularly relevant for this paper is that it removes complexity out of the common understanding of how algorithms filter and categorize content. In fact, when talking about algorithms, Gillespie states that
 
-_It is too easy to treat it as a singular artifact, when in the cases we&#039;re most interested in it&#039;s rarely one tool, but many tools functioning together, sometimes different tools for different users, so complex that in some cases even their designers can no longer comprehend them._ [_(Gillespie, 2016, p. 5)_](https://paperpile.com/c/BG18Wg/dRdOY/?locator=5)
+> It is too easy to treat it as a singular artifact, when in the cases we're most interested in it's rarely one tool, but many tools functioning together, sometimes different tools for different users, so complex that in some cases even their designers can no longer comprehend them. [_(Gillespie, 2016, p. 5)_](https://paperpile.com/c/BG18Wg/dRdOY/?locator=5)
 
 There is a profound sense of human alienation when absorbing this point: algorithmic processes are, by norm, so complex with moving pieces and inter-dependencies that no single person has a holistic, systemic overview. In practice, this means that we find ourselves twice removed from the choices to filter content: first when delegating the choices to algorithms, and then when we inevitably lose the conceptual, systemic grasp on how those algorithmic processes function as a whole.
 
 [^3]: Central processing unit
 
-[^4]: vdnvjkb
+[^4]: https://en.oxforddictionaries.com/definition/us/algorithm
