@@ -1,5 +1,3 @@
-## 1.2 - What is an algorithm {#1-2-what-is-an-algorithm}
-
 A quick premise: this paper is targeted at societal and cultural effects of algorithmic, automated, computer-driven processing of information. In-depth explanations of what an algorithm is would require a much deeper focus on the technical aspects of how computer science implements complex systems of arithmetic operations, starting from the basic functionality of CPU[^3] logic. This type of in-depth analysis is out of scope for this paper; however, it is important to provide a certain amount of underlying knowledge in order to understand some of the most crucial aspects of algorithmic mediation of information. A broad and superficial knowledge of algorithmic computations will help with understanding the frame of reference for the constraints that automated systems cannot escape, and it will help differentiate between information mediation processes enacted by human beings, and those implemented through computer algorithms. This brief explanation covers the following main concepts:
 
 *   Definition of algorithm
