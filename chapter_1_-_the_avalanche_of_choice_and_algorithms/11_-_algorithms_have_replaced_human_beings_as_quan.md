@@ -1,5 +1,3 @@
-## 1.1 - Algorithms have replaced human beings as (quantitatively) primary agenda setters and gatekeepers {#1-1-algorithms-have-replaced-human-beings-as-quantitatively-primary-agenda-setters-and-gatekeepers}
-
 It’s no mystery that we’re living in an era of unprecedented production of information. It is, however, important to try and grasp the mind-boggling extent of the phenomenon. Any attempt to capture the current amount of information produced is rendered obsolete faster than it takes for the researchers to write and print the analysis. The enormity of content production can be extrapolated through an anecdotal glimpse into how much content is created in a single day[^1]: at the time of writing (2PM CET on Saturday, 12 March 2016), since the beginning of the day (00:00 CEST) the mediascape has witnessed the creation of:
 
 *   two and half million new blog posts;
