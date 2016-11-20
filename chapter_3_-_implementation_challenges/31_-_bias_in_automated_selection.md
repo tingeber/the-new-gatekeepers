@@ -4,7 +4,7 @@ With algorithms, the situation is radically different — and yet the same. This
 
 ### Provenance of bias in algorithms {#provenance-of-bias-in-algorithms}
 
-_More than mere tools, algorithms are also stabilizers of trust, practical and symbolic assurances that their evaluations are fair and accurate, free from subjectivity, error, or attempted influence. But, though algorithms may appear to be automatic and untarnished by the interventions of their providers, this is a carefully crafted fiction._ [_(Gillespie, 2014, p. 13)_](https://paperpile.com/c/BG18Wg/AB8k/?locator=13)
+> More than mere tools, algorithms are also stabilizers of trust, practical and symbolic assurances that their evaluations are fair and accurate, free from subjectivity, error, or attempted influence. But, though algorithms may appear to be automatic and untarnished by the interventions of their providers, this is a carefully crafted fiction. [_(Gillespie, 2014, p. 13)_](https://paperpile.com/c/BG18Wg/AB8k/?locator=13)
 
 By delegating gatekeeping to algorithms, society has also enacted a transfer of power: from the journalistic power structure of the past, to _algorithm developers and owners._Discussion of merit and positive or negative qualities of this new power structure are not relevant to the fundamental point: that this transfer of power happened, and it is increasingly influential in deciding the type of content we receive. From a bias perspective, this transfer of power creates two new aspects of bias provenance: implicit and explicit.
 
