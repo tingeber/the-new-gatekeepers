@@ -1,5 +1,3 @@
-## 4.4 - Mitigation techniques {#4-4-mitigation-techniques}
-
 While this paper doesn’t presume to have answers to all of the questions raised throughout, we will try to collect a list of possible mitigation techniques that can help with minimizing the influence of algorithmic gatekeeping on public perception. It is however important to mention that we don’t believe that there is a way to avoid algorithmic gatekeepers, either by returning to the old system, or by proposing a new paradigm. Algorithms, for better or for worse, are here to stay — because, within our current knowledge, there is nothing comparable that can take their place. Lastly, before listing mitigation techniques, it is important to mention that there is no guarantee that these techniques will improve the quality of results in any meaningful way — they will however assist individuals with critical thinking around algorithmic results, and modifying the individual algorithmic parsing.
 
 ### Awareness {#awareness}
