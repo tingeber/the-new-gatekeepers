@@ -1,5 +1,3 @@
-# Bibliography {#bibliography}
-
 [Anderson, C. W. (2011). Deliberative, Agonistic, and Algorithmic Audiences: Journalism’s Vision of its Public in an Age of Audience Transparency.](http://paperpile.com/b/BG18Wg/Z5CK) [_International Journal of Communication Systems_](http://paperpile.com/b/BG18Wg/Z5CK)[,](http://paperpile.com/b/BG18Wg/Z5CK) [_5_](http://paperpile.com/b/BG18Wg/Z5CK)[(0), 19.](http://paperpile.com/b/BG18Wg/Z5CK)
 
 [Bowles, N., &amp; Thielman, S. (2016, May 9). Facebook accused of censoring conservatives, report says.](http://paperpile.com/b/BG18Wg/jI9l) [_The Guardian_](http://paperpile.com/b/BG18Wg/jI9l)[. Retrieved from](http://paperpile.com/b/BG18Wg/jI9l) [http://www.theguardian.com/technology/2016/may/09/facebook-newsfeed-censor-conservative-news](http://www.theguardian.com/technology/2016/may/09/facebook-newsfeed-censor-conservative-news)
